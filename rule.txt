@@ -8,8 +8,8 @@
     Do not build any type of farm with the purpose to overwhelm or cause a negative impact on the server.
     Modifications that control your player or automate actions are prohibited.
     If you disagree with another player or are uncomfortable with their messages, please notify a staff member.
-    Please use English in public chat.
-    Speaking other languages in the global chat except English is not allowed. 
+    Please use English or thai in public chat.
+    Speaking other languages in the global chat except English or thai is not allowed. 
     Harassing staff members or other players is not allowed.
     Impersonating staff members or other players is not allowed.
     Trading of any items for real-life money or form of currency is prohibited.
@@ -49,7 +49,7 @@
     Do not send links to any other Discord server in public chat.
     Discussing anything inappropriate in public chat is not allowed.
     Please replant trees whenever you destroy them.
-    Crafting or using TNT in the server is not allowed.
+    using TNT in sm1 house is not allowed.
     Stealing other player’s items is not allowed.
     Teleport trapping is prohibited.
     Cobble monstering to create large structures are not allowed.
